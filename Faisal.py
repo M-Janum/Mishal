@@ -61,14 +61,14 @@ banner = """
 \x1b[1;91m|  |  |  |    |  `----.|  `--'  |    \    /    |  |____ 
 \x1b[1;91m|__|  |__|    |_______| \______/      \__/     |_______|
 
-\x1b[1;93mI WILL NEVER STOP LOVING U, AND I’ll CHERISH U AS LONG AS I liVE✫✫✫
+\x1b[1;93mI WILL NEVER STOP LOVING U, AND I’ll CHERISH U AS LONG AS I liVE✫
 ≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛
 \x1b[1;92m➣Lover:\x1b[1;91mFAISAL KI JAN MISHAL❂ ❂ ❂
 \x1b[1;92m➣Github:\x1b[1;91mHTTPS://GITHUB.COM/QUEEN007❂ ❂
 \x1b[1;92m➣Facebook:\x1b[1;91mFAISAL REHMAN❂ ❂ ❂ ❂
-\x1b[1;92m➣PASSION OF ANYTHING CAN MAKE YOU DO MANYTHINGS ❂ ❂ ❂
-\x1b[1;92m➣QUEEN OF CLONING MASTER MISHAL❂ ❂ ❂ ❂
-\x1b[1;92m➣Gang:NIGHT 007 FAMILY❂ ❂ ❂ ❂ ❂
+\x1b[1;91m➣PASSION OF ANYTHING CAN MAKE YOU DO MANYTHINGS ❂ ❂ ❂
+\x1b[1;91m➣QUEEN OF CLONING MASTER MISHAL❂ ❂ ❂ ❂
+\x1b[1;91m➣Gang:NIGHT 007 FAMILY❂ ❂ ❂ ❂ ❂
 \x1b[1;93m≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛"""
 # titik #
 def tik():
