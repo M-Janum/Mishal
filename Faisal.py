@@ -62,8 +62,8 @@ banner = """
 \x1b[1;91m|__|  |__|    |_______| \______/      \__/     |_______|
 
 \x1b[1;93mI WILL NEVER STOP LOVING U, AND I’ll CHERISH U AS LONG AS I liVE✫✫✫
-≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛
-\x1b[1;91m➣Lover: FAISAL KI JAN MISHAL❂ ❂ ❂
+≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛
+\x1b[1;91m➣Lover:\x1b[1;95mFAISAL KI JAN MISHAL❂ ❂ ❂
 \x1b[1;92m➣Github:HTTPS://GITHUB.COM/QUEEN007❂ ❂
 \x1b[1;93m➣Facebook:FAISAL REHMAN❂ ❂ ❂ ❂
 \x1b[1;94m➣PASSION OF ANYTHING CAN MAKE YOU DO MANYTHINGS ❂ ❂ ❂
