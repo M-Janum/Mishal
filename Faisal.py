@@ -91,13 +91,13 @@ banner = """
 \x1b[1;92m──────███████───▄▀
 \x1b[1;92m──────▀█████▀▀▄▀
 \x1b[1;92m────────▀█▀
-\x1b[1;93mI WILL NEVER STOP LOVING U, AND I’ll CHERISH U AS LONG AS I liVE✫
-\x1b[1;94m≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛  ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛
+\x1b[1;94mI WILL NEVER STOP LOVING U, AND I’ll CHERISH U AS LONG AS I liVE✫
+\x1b[1;91m≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ 
 \x1b[1;92m➣Lover:\x1b[1;93mFAISAL KI JAN MISHAL❂ ❂ 
 \x1b[1;92m➣Github:\x1b[1;93mHTTPS://GITHUB.COM/QUEEN007❂ ❂
 \x1b[1;92m➣Whatsap:\x1b[1;93m+923035191880❂ ❂ 
 \x1b[1;92m➣Gang:\x1b[1;93mNIGHT 007 FAMILY❂ ❂ ❂ 
-\x1b[1;94m≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛  ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛"""
+\x1b[1;91m≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛  ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛ ≛"""
 # titik #
 def tik():
 	titik = [".   ","..  ","... "]
